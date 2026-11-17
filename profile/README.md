@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./logo.png" alt="Tech To Craft Logo" width="260" />
+  <img src="./gear-loom-logo-v2-dark-wide.png" alt="Tech To Craft Logo" width="260" />
 </div>
 
 <br />
